@@ -17,3 +17,5 @@ HTML
 CSS
 
 JavaScript
+
+Live link: https://rutuja-2311.github.io/Quiz-Game/
